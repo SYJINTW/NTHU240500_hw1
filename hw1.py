@@ -33,6 +33,7 @@ for i in data:
 id_list = ['C0A880', 'C0F9A0', 'C0G640', 'C0R190', 'C0X260']
 id_list.sort()
 
+# Create the main list
 all_list = [[],[],[],[],[]]
 
 for i in data:
